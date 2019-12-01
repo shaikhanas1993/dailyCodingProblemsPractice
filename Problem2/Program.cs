@@ -75,11 +75,77 @@ namespace Problem2
                 Console.WriteLine(output[i]);
             }
         }
+
+
+        public  static void process(int[] input)
+        {
+            int n = input.Length;
+            if(n == 1)
+            {
+                return ;
+            }
+
+            int[] product = new int[n];
+            int[] left = new int[n];
+            int[] right = new int[n];
+
+            left[0] = 1;
+            for(int i = 1; i < n; i++)
+            {
+                left[i] = input[i - 1] * left[i - 1];
+            }
+
+            right[n - 1] = 1;
+            for(int j = n - 2 ; j >= 0; j--)
+            {
+                right[j] = input[j + 1] * right[j + 1];
+            }
+
+            for(int k = 0 ; k < n; k++)
+            {
+                product[k] = left[k] * right[k];
+            }
+
+
+
+        }
+
+        public static void process2(int[] input)
+        {
+            int n = input.Length;
+            int[] product = new int[n];
+            for(int i = 0; i < n; i++ )
+            {
+                product[i] = 1;
+            }
+
+
+            int temp = 1;
+            for(int i = 0; i< n ;i++)
+            {
+                product[i] = temp;
+                temp = temp * input[i];
+            }
+            temp = 1;
+            for(int i = n-1 ; i >= 0 ;i--)
+            {
+                product[i] =  product[i] * temp;
+                temp = temp * input[i];
+            }
+
+            for(int i = 0 ;i < n;i++)
+            {
+                Console.WriteLine(product[i]);
+            }
+        }
+
+        
         static void Main(string[] args)
         {
             int[] arrayOfIntegers = new int[] {1,2,3,4,5};
             Program program = new Program();
-            calculateProduct2(arrayOfIntegers);
+           // calculateProduct2(arrayOfIntegers);
+           process2(arrayOfIntegers);
         }
     }
 }
