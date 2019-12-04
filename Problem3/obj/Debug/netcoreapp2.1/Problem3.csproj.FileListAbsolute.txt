@@ -1,0 +1,11 @@
+/home/anas/Code/dailyCodingProblems/Problem3/bin/Debug/netcoreapp2.1/Problem3.deps.json
+/home/anas/Code/dailyCodingProblems/Problem3/bin/Debug/netcoreapp2.1/Problem3.runtimeconfig.json
+/home/anas/Code/dailyCodingProblems/Problem3/bin/Debug/netcoreapp2.1/Problem3.runtimeconfig.dev.json
+/home/anas/Code/dailyCodingProblems/Problem3/bin/Debug/netcoreapp2.1/Problem3.dll
+/home/anas/Code/dailyCodingProblems/Problem3/bin/Debug/netcoreapp2.1/Problem3.pdb
+/home/anas/Code/dailyCodingProblems/Problem3/obj/Debug/netcoreapp2.1/Problem3.csprojAssemblyReference.cache
+/home/anas/Code/dailyCodingProblems/Problem3/obj/Debug/netcoreapp2.1/Problem3.csproj.CoreCompileInputs.cache
+/home/anas/Code/dailyCodingProblems/Problem3/obj/Debug/netcoreapp2.1/Problem3.AssemblyInfoInputs.cache
+/home/anas/Code/dailyCodingProblems/Problem3/obj/Debug/netcoreapp2.1/Problem3.AssemblyInfo.cs
+/home/anas/Code/dailyCodingProblems/Problem3/obj/Debug/netcoreapp2.1/Problem3.dll
+/home/anas/Code/dailyCodingProblems/Problem3/obj/Debug/netcoreapp2.1/Problem3.pdb

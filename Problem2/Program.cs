@@ -139,13 +139,87 @@ namespace Problem2
             }
         }
 
+
+        public static void novice(int[] input)
+        {
+            int n = input.Length;
+            if(n == 1)
+            {
+                return;
+            }
+
+            int[] output = new int[n];
+
+            for (int i = 0; i < n; i++)
+            {
+                int product = 1;
+                for (int j = 0; j < n; j++)
+                {
+                    if(i != j)
+                    {
+                        product = product * input[j];
+                    }
+                }
+
+                output[i] = product;
+            }
+
+            for(int j = 0; j < n; j++)
+            {
+                Console.WriteLine(output[j]);
+            }
+        }
+
+        public static void divideAndconquerSln1(int[] input)
+        {
+            int n = input.Length;
+            if(n == 1)
+            {
+                return;
+            }
+
+            int[] output = new int[n];
+            int[] left = new int[n];
+            int[] right = new int[n];
+
+            left[0] = 1;
+            for(int i = 1;i < n;i++)
+            {
+                left[i] = input[i - 1] * left[i - 1];
+            }
+
+            right[n - 1] = 1;
+            for(int j = n - 2; j >= 0; j--)
+            {
+                right[j] = input[j + 1] * right[j + 1];
+            }
+
+            for(int i = 0; i < n; i++)
+            {
+                output[i] = left[i] * right[i];
+            }
+
+            printOutput(output);
+            
+        }
+
+        public static void printOutput(int[] output)
+        {
+            for (int i = 0; i < output.Length; i++)
+            {   
+                Console.WriteLine(output[i]);
+            }
+        }
+
         
         static void Main(string[] args)
         {
             int[] arrayOfIntegers = new int[] {1,2,3,4,5};
             Program program = new Program();
+            //novice(arrayOfIntegers);
+            divideAndconquerSln1(arrayOfIntegers);
            // calculateProduct2(arrayOfIntegers);
-           process2(arrayOfIntegers);
+          // process2(arrayOfIntegers);
         }
     }
 }
