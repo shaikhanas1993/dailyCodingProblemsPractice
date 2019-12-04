@@ -14,7 +14,7 @@ namespace Problem3
     {
         public static int[] process(int[] input)
         {
-            input = input.Where(item => item >= 0).Distinct().ToArray();
+            input = input.Where(item => item > 0).Distinct().ToArray();
             Array.Sort(input);
             return input;
         }
@@ -23,7 +23,7 @@ namespace Problem3
             input = process(input);
             int n = input.Length;
             
-            int missingValue = 0;
+            int missingValue = 1;
             for(int i = 1; i < n;i++)
             {
                 int value = input[i-1] + 1;
@@ -42,7 +42,9 @@ namespace Problem3
         }
         static void Main(string[] args)
         {
-            int[] input = new int[] {3, 4, -1, 1};
+           //int[] input = new int[] {3, 4, -1, 1};
+         //  int[] input = new int[] {3, 4, -1, 2};
+         int[] input = new int[] {2,1,0};
             int missingValue = sln1(input);
             Console.WriteLine("missing value == " + missingValue);
         }
