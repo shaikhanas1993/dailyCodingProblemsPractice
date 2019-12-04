@@ -32,24 +32,36 @@ namespace Problem3
                 return missingValue;
             }
 
+            bool foundMissingValue = false;
+
             for(int i = 1; i < n;i++)
             {
                 int value = input[i-1] + 1;
                 if(input[i] != value)
                 {
                     missingValue = value;
+                    foundMissingValue = true;
                     break;
                 }
             }
 
-            Console.WriteLine(missingValue);
-
-            //check if missing value exists in input array
-            if(Array.Exists(input,item => item.Equals(missingValue)) == true)
+            if(foundMissingValue == true)
             {
-                missingValue = input[n - 1] + 1;
+                return missingValue;
             }
-            return missingValue;
+            else
+            {
+               return missingValue = input[n - 1] + 1;
+            }
+
+            // Console.WriteLine(missingValue);
+
+            // //check if missing value exists in input array
+            // if(Array.Exists(input,item => item.Equals(missingValue)) == true)
+            // {
+            //     missingValue = input[n - 1] + 1;
+            // }
+            // return missingValue;
         }
         static void Main(string[] args)
         {
