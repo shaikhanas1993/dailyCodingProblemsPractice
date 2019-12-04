@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Problem3/bin/Debug/netcoreapp2.1/Problem3.dll",
+            "program": "${workspaceFolder}/Problem3R/bin/Debug/netcoreapp2.1/Problem3R.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Problem3",
+            "cwd": "${workspaceFolder}/Problem3R",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
