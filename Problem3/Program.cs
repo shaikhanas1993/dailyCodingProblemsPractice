@@ -23,15 +23,26 @@ namespace Problem3
             input = process(input);
             int n = input.Length;
             
+
+            //Since 1 is the lowest positive value check if it exists
             int missingValue = 1;
+            //check if 1 exists in Array
+            if(Array.Exists(input,item => item.Equals(missingValue)) == false)
+            {
+                return missingValue;
+            }
+
             for(int i = 1; i < n;i++)
             {
                 int value = input[i-1] + 1;
                 if(input[i] != value)
                 {
                     missingValue = value;
+                    break;
                 }
             }
+
+            Console.WriteLine(missingValue);
 
             //check if missing value exists in input array
             if(Array.Exists(input,item => item.Equals(missingValue)) == true)
@@ -44,7 +55,7 @@ namespace Problem3
         {
            //int[] input = new int[] {3, 4, -1, 1};
          //  int[] input = new int[] {3, 4, -1, 2};
-         int[] input = new int[] {2,1,0};
+         int[] input = new int[] {1, 1, 0, -1, -2};
             int missingValue = sln1(input);
             Console.WriteLine("missing value == " + missingValue);
         }
