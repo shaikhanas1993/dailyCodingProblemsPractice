@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Problem3R1/Problem3R1.csproj",
+                "${workspaceFolder}/ProblemDuplicate/ProblemDuplication.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Problem3R1/Problem3R1.csproj",
+                "${workspaceFolder}/ProblemDuplicate/ProblemDuplication.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/Problem3R1/Problem3R1.csproj",
+                "${workspaceFolder}/ProblemDuplicate/ProblemDuplication.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],

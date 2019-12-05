@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3R", "Problem3R\Prob
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3R1", "Problem3R1\Problem3R1.csproj", "{1FDB12A6-FAA5-4E1B-92C8-3C967F2463CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemDuplication", "ProblemDuplicate\ProblemDuplication.csproj", "{D825BE40-EBCA-44E2-8333-46BD8D9CDEBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,5 +88,17 @@ Global
 		{1FDB12A6-FAA5-4E1B-92C8-3C967F2463CC}.Release|x64.Build.0 = Release|Any CPU
 		{1FDB12A6-FAA5-4E1B-92C8-3C967F2463CC}.Release|x86.ActiveCfg = Release|Any CPU
 		{1FDB12A6-FAA5-4E1B-92C8-3C967F2463CC}.Release|x86.Build.0 = Release|Any CPU
+		{D825BE40-EBCA-44E2-8333-46BD8D9CDEBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D825BE40-EBCA-44E2-8333-46BD8D9CDEBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D825BE40-EBCA-44E2-8333-46BD8D9CDEBF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D825BE40-EBCA-44E2-8333-46BD8D9CDEBF}.Debug|x64.Build.0 = Debug|Any CPU
+		{D825BE40-EBCA-44E2-8333-46BD8D9CDEBF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D825BE40-EBCA-44E2-8333-46BD8D9CDEBF}.Debug|x86.Build.0 = Debug|Any CPU
+		{D825BE40-EBCA-44E2-8333-46BD8D9CDEBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D825BE40-EBCA-44E2-8333-46BD8D9CDEBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D825BE40-EBCA-44E2-8333-46BD8D9CDEBF}.Release|x64.ActiveCfg = Release|Any CPU
+		{D825BE40-EBCA-44E2-8333-46BD8D9CDEBF}.Release|x64.Build.0 = Release|Any CPU
+		{D825BE40-EBCA-44E2-8333-46BD8D9CDEBF}.Release|x86.ActiveCfg = Release|Any CPU
+		{D825BE40-EBCA-44E2-8333-46BD8D9CDEBF}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
