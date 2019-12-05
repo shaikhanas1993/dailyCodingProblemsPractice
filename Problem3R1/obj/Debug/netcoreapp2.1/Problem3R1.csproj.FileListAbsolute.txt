@@ -1,0 +1,11 @@
+D:\dailyCodingProblemsPractice\Problem3R1\bin\Debug\netcoreapp2.1\Problem3R1.deps.json
+D:\dailyCodingProblemsPractice\Problem3R1\bin\Debug\netcoreapp2.1\Problem3R1.runtimeconfig.json
+D:\dailyCodingProblemsPractice\Problem3R1\bin\Debug\netcoreapp2.1\Problem3R1.runtimeconfig.dev.json
+D:\dailyCodingProblemsPractice\Problem3R1\bin\Debug\netcoreapp2.1\Problem3R1.dll
+D:\dailyCodingProblemsPractice\Problem3R1\bin\Debug\netcoreapp2.1\Problem3R1.pdb
+D:\dailyCodingProblemsPractice\Problem3R1\obj\Debug\netcoreapp2.1\Problem3R1.csprojAssemblyReference.cache
+D:\dailyCodingProblemsPractice\Problem3R1\obj\Debug\netcoreapp2.1\Problem3R1.csproj.CoreCompileInputs.cache
+D:\dailyCodingProblemsPractice\Problem3R1\obj\Debug\netcoreapp2.1\Problem3R1.AssemblyInfoInputs.cache
+D:\dailyCodingProblemsPractice\Problem3R1\obj\Debug\netcoreapp2.1\Problem3R1.AssemblyInfo.cs
+D:\dailyCodingProblemsPractice\Problem3R1\obj\Debug\netcoreapp2.1\Problem3R1.dll
+D:\dailyCodingProblemsPractice\Problem3R1\obj\Debug\netcoreapp2.1\Problem3R1.pdb
