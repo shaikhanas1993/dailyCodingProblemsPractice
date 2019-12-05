@@ -69,12 +69,45 @@ namespace ProblemDuplication
             return input;
         }
 
+        public static int[] segregate1(int[] input)
+        {
+            
+            
+            int n = input.Length;
+            int[] negative = new int[n];
+            int[] positive = new int[n];
+            int j = 0;
+            int k = 0;
+            for(int i = 0;i < n;i++)
+            {
+                if(input[i] < 0)
+                {
+                    negative[j] = input[i];j++;
+                }
+                else
+                {
+                    positive[k] = input[i]; k++;
+                }
+            }
+            
+            k = 0;
+            for(int i = 0; i<n;i++)
+            {
+                if(negative[i] == 0)
+                {
+                    negative[i] = positive[k];k++;
+                }
+            }
+            
+            return negative;
+        }
+
         
         static void Main(string[] args)
         {
-            int[] input = { 1, 2, 3, 4, 5, -1, 1, -1, 2 };
+            int[] input = { 1, -2, -3, 4, 5, -1, 1, -1, 2 };
           //  int[] output = findDuplicates(input);
-            int[] output = segregate(input);
+            int[] output = segregate1(input);
             printArray(output);
         }
     }
