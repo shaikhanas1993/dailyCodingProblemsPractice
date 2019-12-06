@@ -1,0 +1,11 @@
+D:\dailyCodingProblemsPractice\BinaryTreeTraversal\bin\Debug\netcoreapp2.1\BinaryTreeTraversal.deps.json
+D:\dailyCodingProblemsPractice\BinaryTreeTraversal\bin\Debug\netcoreapp2.1\BinaryTreeTraversal.runtimeconfig.json
+D:\dailyCodingProblemsPractice\BinaryTreeTraversal\bin\Debug\netcoreapp2.1\BinaryTreeTraversal.runtimeconfig.dev.json
+D:\dailyCodingProblemsPractice\BinaryTreeTraversal\bin\Debug\netcoreapp2.1\BinaryTreeTraversal.dll
+D:\dailyCodingProblemsPractice\BinaryTreeTraversal\bin\Debug\netcoreapp2.1\BinaryTreeTraversal.pdb
+D:\dailyCodingProblemsPractice\BinaryTreeTraversal\obj\Debug\netcoreapp2.1\BinaryTreeTraversal.csprojAssemblyReference.cache
+D:\dailyCodingProblemsPractice\BinaryTreeTraversal\obj\Debug\netcoreapp2.1\BinaryTreeTraversal.csproj.CoreCompileInputs.cache
+D:\dailyCodingProblemsPractice\BinaryTreeTraversal\obj\Debug\netcoreapp2.1\BinaryTreeTraversal.AssemblyInfoInputs.cache
+D:\dailyCodingProblemsPractice\BinaryTreeTraversal\obj\Debug\netcoreapp2.1\BinaryTreeTraversal.AssemblyInfo.cs
+D:\dailyCodingProblemsPractice\BinaryTreeTraversal\obj\Debug\netcoreapp2.1\BinaryTreeTraversal.dll
+D:\dailyCodingProblemsPractice\BinaryTreeTraversal\obj\Debug\netcoreapp2.1\BinaryTreeTraversal.pdb
