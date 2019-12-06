@@ -1,0 +1,11 @@
+D:\dailyCodingProblemsPractice\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.deps.json
+D:\dailyCodingProblemsPractice\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.runtimeconfig.json
+D:\dailyCodingProblemsPractice\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.runtimeconfig.dev.json
+D:\dailyCodingProblemsPractice\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.dll
+D:\dailyCodingProblemsPractice\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.pdb
+D:\dailyCodingProblemsPractice\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.csprojAssemblyReference.cache
+D:\dailyCodingProblemsPractice\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.csproj.CoreCompileInputs.cache
+D:\dailyCodingProblemsPractice\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.AssemblyInfoInputs.cache
+D:\dailyCodingProblemsPractice\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.AssemblyInfo.cs
+D:\dailyCodingProblemsPractice\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.dll
+D:\dailyCodingProblemsPractice\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.pdb
