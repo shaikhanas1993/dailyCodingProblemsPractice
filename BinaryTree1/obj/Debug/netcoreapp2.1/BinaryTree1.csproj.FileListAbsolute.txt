@@ -1,0 +1,11 @@
+/home/anas/Code/dailyCodingProblems/BinaryTree1/bin/Debug/netcoreapp2.1/BinaryTree1.deps.json
+/home/anas/Code/dailyCodingProblems/BinaryTree1/bin/Debug/netcoreapp2.1/BinaryTree1.runtimeconfig.json
+/home/anas/Code/dailyCodingProblems/BinaryTree1/bin/Debug/netcoreapp2.1/BinaryTree1.runtimeconfig.dev.json
+/home/anas/Code/dailyCodingProblems/BinaryTree1/bin/Debug/netcoreapp2.1/BinaryTree1.dll
+/home/anas/Code/dailyCodingProblems/BinaryTree1/bin/Debug/netcoreapp2.1/BinaryTree1.pdb
+/home/anas/Code/dailyCodingProblems/BinaryTree1/obj/Debug/netcoreapp2.1/BinaryTree1.csprojAssemblyReference.cache
+/home/anas/Code/dailyCodingProblems/BinaryTree1/obj/Debug/netcoreapp2.1/BinaryTree1.csproj.CoreCompileInputs.cache
+/home/anas/Code/dailyCodingProblems/BinaryTree1/obj/Debug/netcoreapp2.1/BinaryTree1.AssemblyInfoInputs.cache
+/home/anas/Code/dailyCodingProblems/BinaryTree1/obj/Debug/netcoreapp2.1/BinaryTree1.AssemblyInfo.cs
+/home/anas/Code/dailyCodingProblems/BinaryTree1/obj/Debug/netcoreapp2.1/BinaryTree1.dll
+/home/anas/Code/dailyCodingProblems/BinaryTree1/obj/Debug/netcoreapp2.1/BinaryTree1.pdb

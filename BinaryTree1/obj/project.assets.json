@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/anas/Code/dailyCodingProblems/ProblemDuplicate/ProblemDuplication.csproj",
-      "projectName": "ProblemDuplication",
-      "projectPath": "/home/anas/Code/dailyCodingProblems/ProblemDuplicate/ProblemDuplication.csproj",
+      "projectUniqueName": "/home/anas/Code/dailyCodingProblems/BinaryTree1/BinaryTree1.csproj",
+      "projectName": "BinaryTree1",
+      "projectPath": "/home/anas/Code/dailyCodingProblems/BinaryTree1/BinaryTree1.csproj",
       "packagesPath": "/home/anas/.nuget/packages/",
-      "outputPath": "/home/anas/Code/dailyCodingProblems/ProblemDuplicate/obj/",
+      "outputPath": "/home/anas/Code/dailyCodingProblems/BinaryTree1/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

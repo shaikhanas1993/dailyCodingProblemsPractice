@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeTraversal", "Bina
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeBFS", "BinaryTreeBFS\BinaryTreeBFS.csproj", "{F5A647C8-52C0-4FCD-9E14-98011EF21A1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree1", "BinaryTree1\BinaryTree1.csproj", "{3BA458A8-0A23-4A71-A32B-70B2C9379480}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -156,5 +158,17 @@ Global
 		{F5A647C8-52C0-4FCD-9E14-98011EF21A1E}.Release|x64.Build.0 = Release|Any CPU
 		{F5A647C8-52C0-4FCD-9E14-98011EF21A1E}.Release|x86.ActiveCfg = Release|Any CPU
 		{F5A647C8-52C0-4FCD-9E14-98011EF21A1E}.Release|x86.Build.0 = Release|Any CPU
+		{3BA458A8-0A23-4A71-A32B-70B2C9379480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA458A8-0A23-4A71-A32B-70B2C9379480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA458A8-0A23-4A71-A32B-70B2C9379480}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3BA458A8-0A23-4A71-A32B-70B2C9379480}.Debug|x64.Build.0 = Debug|Any CPU
+		{3BA458A8-0A23-4A71-A32B-70B2C9379480}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3BA458A8-0A23-4A71-A32B-70B2C9379480}.Debug|x86.Build.0 = Debug|Any CPU
+		{3BA458A8-0A23-4A71-A32B-70B2C9379480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA458A8-0A23-4A71-A32B-70B2C9379480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA458A8-0A23-4A71-A32B-70B2C9379480}.Release|x64.ActiveCfg = Release|Any CPU
+		{3BA458A8-0A23-4A71-A32B-70B2C9379480}.Release|x64.Build.0 = Release|Any CPU
+		{3BA458A8-0A23-4A71-A32B-70B2C9379480}.Release|x86.ActiveCfg = Release|Any CPU
+		{3BA458A8-0A23-4A71-A32B-70B2C9379480}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
