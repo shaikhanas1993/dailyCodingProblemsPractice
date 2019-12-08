@@ -111,6 +111,7 @@ namespace BinaryTree1
             tree.root = new Node<int>(1);
             tree.root.left = new Node<int>(2);
             tree.root.right = new Node<int>(3);
+            tree.root.left.left = new Node<int>(4);
             int height = TreeHeightCalculate<int>.calculateHeight(tree.root);
             Console.WriteLine(height);
             // Printing<int>.InorderPrint(tree.root);
