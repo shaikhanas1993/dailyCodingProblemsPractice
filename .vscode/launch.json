@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/BinaryTree1/bin/Debug/netcoreapp2.1/BinaryTree1.dll",
+            "program": "${workspaceFolder}/BinaryTreeR1/bin/Debug/netcoreapp2.1/BinaryTreeR1.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/BinaryTree1",
+            "cwd": "${workspaceFolder}/BinaryTreeR1",
             "console": "internalConsole",
             "stopAtEntry": false
         },
