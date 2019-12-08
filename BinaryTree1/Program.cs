@@ -31,6 +31,34 @@ namespace BinaryTree1
         }
     }
 
+    static class TreeHeightCalculate<T>
+    {
+        public static int calculateHeight(Node<T> root)
+        {
+            if(root == null)
+            {
+                return 0;
+            }
+
+            int leftPath = 0;
+            int rightPath = 0;
+
+            if(root.left != null)
+            {
+                leftPath =  1 + calculateHeight(root.left);
+            }
+
+            if(root.right != null)
+            {
+                rightPath = 1 + calculateHeight(root.right);
+            }
+
+            return rightPath > leftPath ? rightPath : leftPath;
+
+        }
+        
+    }
+
     static class Printing<T>
     {
         public static void InorderPrint(Node<T> root)
@@ -83,13 +111,15 @@ namespace BinaryTree1
             tree.root = new Node<int>(1);
             tree.root.left = new Node<int>(2);
             tree.root.right = new Node<int>(3);
-            Printing<int>.InorderPrint(tree.root);
+            int height = TreeHeightCalculate<int>.calculateHeight(tree.root);
+            Console.WriteLine(height);
+            // Printing<int>.InorderPrint(tree.root);
 
-            var tree1 = new BinaryTree<string>();
-            tree1.root = new Node<string>("anas");
-            tree1.root.left = new Node<string>("nabeela");
-            tree1.root.right = new Node<string>("jarrar");
-            Printing<string>.PostorderPrint(tree1.root);
+            // var tree1 = new BinaryTree<string>();
+            // tree1.root = new Node<string>("anas");
+            // tree1.root.left = new Node<string>("nabeela");
+            // tree1.root.right = new Node<string>("jarrar");
+            // Printing<string>.PostorderPrint(tree1.root);
         }
     }
 }
