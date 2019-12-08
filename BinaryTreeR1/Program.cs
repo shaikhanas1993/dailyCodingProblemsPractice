@@ -102,7 +102,7 @@ namespace BinaryTreeR1
 
             if(level == 0)
             {
-                Console.WriteLine(node.data + ",");
+                Console.Write(node.data + ",");
             }
             else if(level > 0)
             {
