@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree1", "BinaryTree1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeR1", "BinaryTreeR1\BinaryTreeR1.csproj", "{C63A39C9-A252-40A6-BFD8-54327BCFB7E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem4R", "Problem4r\Problem4R.csproj", "{F84B7D07-F7A7-481A-BABB-98A4EC6C7F07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -184,5 +186,17 @@ Global
 		{C63A39C9-A252-40A6-BFD8-54327BCFB7E2}.Release|x64.Build.0 = Release|Any CPU
 		{C63A39C9-A252-40A6-BFD8-54327BCFB7E2}.Release|x86.ActiveCfg = Release|Any CPU
 		{C63A39C9-A252-40A6-BFD8-54327BCFB7E2}.Release|x86.Build.0 = Release|Any CPU
+		{F84B7D07-F7A7-481A-BABB-98A4EC6C7F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84B7D07-F7A7-481A-BABB-98A4EC6C7F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F84B7D07-F7A7-481A-BABB-98A4EC6C7F07}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F84B7D07-F7A7-481A-BABB-98A4EC6C7F07}.Debug|x64.Build.0 = Debug|Any CPU
+		{F84B7D07-F7A7-481A-BABB-98A4EC6C7F07}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F84B7D07-F7A7-481A-BABB-98A4EC6C7F07}.Debug|x86.Build.0 = Debug|Any CPU
+		{F84B7D07-F7A7-481A-BABB-98A4EC6C7F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F84B7D07-F7A7-481A-BABB-98A4EC6C7F07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F84B7D07-F7A7-481A-BABB-98A4EC6C7F07}.Release|x64.ActiveCfg = Release|Any CPU
+		{F84B7D07-F7A7-481A-BABB-98A4EC6C7F07}.Release|x64.Build.0 = Release|Any CPU
+		{F84B7D07-F7A7-481A-BABB-98A4EC6C7F07}.Release|x86.ActiveCfg = Release|Any CPU
+		{F84B7D07-F7A7-481A-BABB-98A4EC6C7F07}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

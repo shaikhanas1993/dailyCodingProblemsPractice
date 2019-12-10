@@ -1,0 +1,11 @@
+D:\dailyCodingProblemsPractice\Problem4r\bin\Debug\netcoreapp2.1\Problem4R.deps.json
+D:\dailyCodingProblemsPractice\Problem4r\bin\Debug\netcoreapp2.1\Problem4R.runtimeconfig.json
+D:\dailyCodingProblemsPractice\Problem4r\bin\Debug\netcoreapp2.1\Problem4R.runtimeconfig.dev.json
+D:\dailyCodingProblemsPractice\Problem4r\bin\Debug\netcoreapp2.1\Problem4R.dll
+D:\dailyCodingProblemsPractice\Problem4r\bin\Debug\netcoreapp2.1\Problem4R.pdb
+D:\dailyCodingProblemsPractice\Problem4r\obj\Debug\netcoreapp2.1\Problem4R.csprojAssemblyReference.cache
+D:\dailyCodingProblemsPractice\Problem4r\obj\Debug\netcoreapp2.1\Problem4R.csproj.CoreCompileInputs.cache
+D:\dailyCodingProblemsPractice\Problem4r\obj\Debug\netcoreapp2.1\Problem4R.AssemblyInfoInputs.cache
+D:\dailyCodingProblemsPractice\Problem4r\obj\Debug\netcoreapp2.1\Problem4R.AssemblyInfo.cs
+D:\dailyCodingProblemsPractice\Problem4r\obj\Debug\netcoreapp2.1\Problem4R.dll
+D:\dailyCodingProblemsPractice\Problem4r\obj\Debug\netcoreapp2.1\Problem4R.pdb
