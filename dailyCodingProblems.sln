@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeR1", "BinaryTreeR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem4R", "Problem4r\Problem4R.csproj", "{F84B7D07-F7A7-481A-BABB-98A4EC6C7F07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem4R1", "Problem4R1\Problem4R1.csproj", "{0E057A22-E8E8-4A54-A118-513EFFE6B5BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -198,5 +200,17 @@ Global
 		{F84B7D07-F7A7-481A-BABB-98A4EC6C7F07}.Release|x64.Build.0 = Release|Any CPU
 		{F84B7D07-F7A7-481A-BABB-98A4EC6C7F07}.Release|x86.ActiveCfg = Release|Any CPU
 		{F84B7D07-F7A7-481A-BABB-98A4EC6C7F07}.Release|x86.Build.0 = Release|Any CPU
+		{0E057A22-E8E8-4A54-A118-513EFFE6B5BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E057A22-E8E8-4A54-A118-513EFFE6B5BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E057A22-E8E8-4A54-A118-513EFFE6B5BF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0E057A22-E8E8-4A54-A118-513EFFE6B5BF}.Debug|x64.Build.0 = Debug|Any CPU
+		{0E057A22-E8E8-4A54-A118-513EFFE6B5BF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0E057A22-E8E8-4A54-A118-513EFFE6B5BF}.Debug|x86.Build.0 = Debug|Any CPU
+		{0E057A22-E8E8-4A54-A118-513EFFE6B5BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E057A22-E8E8-4A54-A118-513EFFE6B5BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E057A22-E8E8-4A54-A118-513EFFE6B5BF}.Release|x64.ActiveCfg = Release|Any CPU
+		{0E057A22-E8E8-4A54-A118-513EFFE6B5BF}.Release|x64.Build.0 = Release|Any CPU
+		{0E057A22-E8E8-4A54-A118-513EFFE6B5BF}.Release|x86.ActiveCfg = Release|Any CPU
+		{0E057A22-E8E8-4A54-A118-513EFFE6B5BF}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
