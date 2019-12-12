@@ -1,0 +1,11 @@
+D:\dailyCodingProblemsPractice\Permutation\bin\Debug\netcoreapp2.1\Permutaion.deps.json
+D:\dailyCodingProblemsPractice\Permutation\bin\Debug\netcoreapp2.1\Permutaion.runtimeconfig.json
+D:\dailyCodingProblemsPractice\Permutation\bin\Debug\netcoreapp2.1\Permutaion.runtimeconfig.dev.json
+D:\dailyCodingProblemsPractice\Permutation\bin\Debug\netcoreapp2.1\Permutaion.dll
+D:\dailyCodingProblemsPractice\Permutation\bin\Debug\netcoreapp2.1\Permutaion.pdb
+D:\dailyCodingProblemsPractice\Permutation\obj\Debug\netcoreapp2.1\Permutaion.csprojAssemblyReference.cache
+D:\dailyCodingProblemsPractice\Permutation\obj\Debug\netcoreapp2.1\Permutaion.csproj.CoreCompileInputs.cache
+D:\dailyCodingProblemsPractice\Permutation\obj\Debug\netcoreapp2.1\Permutaion.AssemblyInfoInputs.cache
+D:\dailyCodingProblemsPractice\Permutation\obj\Debug\netcoreapp2.1\Permutaion.AssemblyInfo.cs
+D:\dailyCodingProblemsPractice\Permutation\obj\Debug\netcoreapp2.1\Permutaion.dll
+D:\dailyCodingProblemsPractice\Permutation\obj\Debug\netcoreapp2.1\Permutaion.pdb

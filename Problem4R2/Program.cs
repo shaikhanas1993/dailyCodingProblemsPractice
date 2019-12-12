@@ -97,7 +97,7 @@ namespace Problem4R2
             TreeNode node = new TreeNode(1);
             node.left = new TreeNode(2);
             node.right = new TreeNode(3);
-             node.right.left = new TreeNode(4);
+            node.right.left = new TreeNode(4);
             Helper helper = new Helper();
             var result = helper.Serialize(node);
             var node1 = helper.DeserializeFunc(result);
