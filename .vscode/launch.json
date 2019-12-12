@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/BST2/bin/Debug/netcoreapp2.1/BST2.dll",
+            "program": "${workspaceFolder}/BSTDEL/bin/Debug/netcoreapp2.1/BSTDEL.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/BST2",
+            "cwd": "${workspaceFolder}/BSTDEL",
             "console": "internalConsole",
             "stopAtEntry": false
         },
