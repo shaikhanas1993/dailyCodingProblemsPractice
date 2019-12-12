@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutaion", "Permutation\P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BST1", "BST1\BST1.csproj", "{B8864E43-BE71-42C3-A2F8-673DAD674962}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BST2", "BST2\BST2.csproj", "{54F75109-D1B5-49CB-A675-3B07C91E2F4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -268,5 +270,17 @@ Global
 		{B8864E43-BE71-42C3-A2F8-673DAD674962}.Release|x64.Build.0 = Release|Any CPU
 		{B8864E43-BE71-42C3-A2F8-673DAD674962}.Release|x86.ActiveCfg = Release|Any CPU
 		{B8864E43-BE71-42C3-A2F8-673DAD674962}.Release|x86.Build.0 = Release|Any CPU
+		{54F75109-D1B5-49CB-A675-3B07C91E2F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F75109-D1B5-49CB-A675-3B07C91E2F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F75109-D1B5-49CB-A675-3B07C91E2F4D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{54F75109-D1B5-49CB-A675-3B07C91E2F4D}.Debug|x64.Build.0 = Debug|Any CPU
+		{54F75109-D1B5-49CB-A675-3B07C91E2F4D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{54F75109-D1B5-49CB-A675-3B07C91E2F4D}.Debug|x86.Build.0 = Debug|Any CPU
+		{54F75109-D1B5-49CB-A675-3B07C91E2F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F75109-D1B5-49CB-A675-3B07C91E2F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54F75109-D1B5-49CB-A675-3B07C91E2F4D}.Release|x64.ActiveCfg = Release|Any CPU
+		{54F75109-D1B5-49CB-A675-3B07C91E2F4D}.Release|x64.Build.0 = Release|Any CPU
+		{54F75109-D1B5-49CB-A675-3B07C91E2F4D}.Release|x86.ActiveCfg = Release|Any CPU
+		{54F75109-D1B5-49CB-A675-3B07C91E2F4D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
