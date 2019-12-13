@@ -1,0 +1,11 @@
+D:\dailyCodingProblemsPractice\BSTSwap\bin\Debug\netcoreapp2.1\BSTSwap.deps.json
+D:\dailyCodingProblemsPractice\BSTSwap\bin\Debug\netcoreapp2.1\BSTSwap.runtimeconfig.json
+D:\dailyCodingProblemsPractice\BSTSwap\bin\Debug\netcoreapp2.1\BSTSwap.runtimeconfig.dev.json
+D:\dailyCodingProblemsPractice\BSTSwap\bin\Debug\netcoreapp2.1\BSTSwap.dll
+D:\dailyCodingProblemsPractice\BSTSwap\bin\Debug\netcoreapp2.1\BSTSwap.pdb
+D:\dailyCodingProblemsPractice\BSTSwap\obj\Debug\netcoreapp2.1\BSTSwap.csprojAssemblyReference.cache
+D:\dailyCodingProblemsPractice\BSTSwap\obj\Debug\netcoreapp2.1\BSTSwap.csproj.CoreCompileInputs.cache
+D:\dailyCodingProblemsPractice\BSTSwap\obj\Debug\netcoreapp2.1\BSTSwap.AssemblyInfoInputs.cache
+D:\dailyCodingProblemsPractice\BSTSwap\obj\Debug\netcoreapp2.1\BSTSwap.AssemblyInfo.cs
+D:\dailyCodingProblemsPractice\BSTSwap\obj\Debug\netcoreapp2.1\BSTSwap.dll
+D:\dailyCodingProblemsPractice\BSTSwap\obj\Debug\netcoreapp2.1\BSTSwap.pdb

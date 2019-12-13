@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/BST44/bin/Debug/netcoreapp2.1/BST44.dll",
+            "program": "${workspaceFolder}/BSTSwap/bin/Debug/netcoreapp2.1/BSTSwap.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/BST44",
+            "cwd": "${workspaceFolder}/BSTSwap",
             "console": "internalConsole",
             "stopAtEntry": false
         },
