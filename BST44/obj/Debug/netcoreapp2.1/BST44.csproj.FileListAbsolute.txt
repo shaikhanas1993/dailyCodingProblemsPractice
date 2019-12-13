@@ -1,0 +1,11 @@
+D:\dailyCodingProblemsPractice\BST44\bin\Debug\netcoreapp2.1\BST44.deps.json
+D:\dailyCodingProblemsPractice\BST44\bin\Debug\netcoreapp2.1\BST44.runtimeconfig.json
+D:\dailyCodingProblemsPractice\BST44\bin\Debug\netcoreapp2.1\BST44.runtimeconfig.dev.json
+D:\dailyCodingProblemsPractice\BST44\bin\Debug\netcoreapp2.1\BST44.dll
+D:\dailyCodingProblemsPractice\BST44\bin\Debug\netcoreapp2.1\BST44.pdb
+D:\dailyCodingProblemsPractice\BST44\obj\Debug\netcoreapp2.1\BST44.csprojAssemblyReference.cache
+D:\dailyCodingProblemsPractice\BST44\obj\Debug\netcoreapp2.1\BST44.csproj.CoreCompileInputs.cache
+D:\dailyCodingProblemsPractice\BST44\obj\Debug\netcoreapp2.1\BST44.AssemblyInfoInputs.cache
+D:\dailyCodingProblemsPractice\BST44\obj\Debug\netcoreapp2.1\BST44.AssemblyInfo.cs
+D:\dailyCodingProblemsPractice\BST44\obj\Debug\netcoreapp2.1\BST44.dll
+D:\dailyCodingProblemsPractice\BST44\obj\Debug\netcoreapp2.1\BST44.pdb
