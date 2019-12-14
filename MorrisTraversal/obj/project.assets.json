@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/anas/Code/dailyCodingProblems/Problem4/Problem4.csproj",
-      "projectName": "Problem4",
-      "projectPath": "/home/anas/Code/dailyCodingProblems/Problem4/Problem4.csproj",
+      "projectUniqueName": "/home/anas/Code/dailyCodingProblems/MorrisTraversal/MorrisTraversal.csproj",
+      "projectName": "MorrisTraversal",
+      "projectPath": "/home/anas/Code/dailyCodingProblems/MorrisTraversal/MorrisTraversal.csproj",
       "packagesPath": "/home/anas/.nuget/packages/",
-      "outputPath": "/home/anas/Code/dailyCodingProblems/Problem4/obj/",
+      "outputPath": "/home/anas/Code/dailyCodingProblems/MorrisTraversal/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

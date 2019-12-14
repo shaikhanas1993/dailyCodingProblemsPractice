@@ -1,0 +1,11 @@
+/home/anas/Code/dailyCodingProblems/MorrisTraversal/bin/Debug/netcoreapp2.1/MorrisTraversal.deps.json
+/home/anas/Code/dailyCodingProblems/MorrisTraversal/bin/Debug/netcoreapp2.1/MorrisTraversal.runtimeconfig.json
+/home/anas/Code/dailyCodingProblems/MorrisTraversal/bin/Debug/netcoreapp2.1/MorrisTraversal.runtimeconfig.dev.json
+/home/anas/Code/dailyCodingProblems/MorrisTraversal/bin/Debug/netcoreapp2.1/MorrisTraversal.dll
+/home/anas/Code/dailyCodingProblems/MorrisTraversal/bin/Debug/netcoreapp2.1/MorrisTraversal.pdb
+/home/anas/Code/dailyCodingProblems/MorrisTraversal/obj/Debug/netcoreapp2.1/MorrisTraversal.csprojAssemblyReference.cache
+/home/anas/Code/dailyCodingProblems/MorrisTraversal/obj/Debug/netcoreapp2.1/MorrisTraversal.csproj.CoreCompileInputs.cache
+/home/anas/Code/dailyCodingProblems/MorrisTraversal/obj/Debug/netcoreapp2.1/MorrisTraversal.AssemblyInfoInputs.cache
+/home/anas/Code/dailyCodingProblems/MorrisTraversal/obj/Debug/netcoreapp2.1/MorrisTraversal.AssemblyInfo.cs
+/home/anas/Code/dailyCodingProblems/MorrisTraversal/obj/Debug/netcoreapp2.1/MorrisTraversal.dll
+/home/anas/Code/dailyCodingProblems/MorrisTraversal/obj/Debug/netcoreapp2.1/MorrisTraversal.pdb
