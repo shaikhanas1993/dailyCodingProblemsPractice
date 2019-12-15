@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/BSTSWAP1/BSTSWAP1.csproj",
+                "${workspaceFolder}/IncorrectBST1/IncorrectBST1.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/BSTSWAP1/BSTSWAP1.csproj",
+                "${workspaceFolder}/IncorrectBST1/IncorrectBST1.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/BSTSWAP1/BSTSWAP1.csproj",
+                "${workspaceFolder}/IncorrectBST1/IncorrectBST1.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],

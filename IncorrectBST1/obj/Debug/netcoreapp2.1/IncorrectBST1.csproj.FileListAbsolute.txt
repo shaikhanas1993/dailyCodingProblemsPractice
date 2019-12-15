@@ -1,0 +1,11 @@
+/home/anas/Code/dailyCodingProblems/IncorrectBST1/bin/Debug/netcoreapp2.1/IncorrectBST1.deps.json
+/home/anas/Code/dailyCodingProblems/IncorrectBST1/bin/Debug/netcoreapp2.1/IncorrectBST1.runtimeconfig.json
+/home/anas/Code/dailyCodingProblems/IncorrectBST1/bin/Debug/netcoreapp2.1/IncorrectBST1.runtimeconfig.dev.json
+/home/anas/Code/dailyCodingProblems/IncorrectBST1/bin/Debug/netcoreapp2.1/IncorrectBST1.dll
+/home/anas/Code/dailyCodingProblems/IncorrectBST1/bin/Debug/netcoreapp2.1/IncorrectBST1.pdb
+/home/anas/Code/dailyCodingProblems/IncorrectBST1/obj/Debug/netcoreapp2.1/IncorrectBST1.csprojAssemblyReference.cache
+/home/anas/Code/dailyCodingProblems/IncorrectBST1/obj/Debug/netcoreapp2.1/IncorrectBST1.csproj.CoreCompileInputs.cache
+/home/anas/Code/dailyCodingProblems/IncorrectBST1/obj/Debug/netcoreapp2.1/IncorrectBST1.AssemblyInfoInputs.cache
+/home/anas/Code/dailyCodingProblems/IncorrectBST1/obj/Debug/netcoreapp2.1/IncorrectBST1.AssemblyInfo.cs
+/home/anas/Code/dailyCodingProblems/IncorrectBST1/obj/Debug/netcoreapp2.1/IncorrectBST1.dll
+/home/anas/Code/dailyCodingProblems/IncorrectBST1/obj/Debug/netcoreapp2.1/IncorrectBST1.pdb
