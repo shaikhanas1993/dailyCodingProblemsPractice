@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem4R2", "Problem4R2\Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorrisTraversal", "MorrisTraversal\MorrisTraversal.csproj", "{96B022C4-7FA0-4D29-A96A-CC7FAEA9FDAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSTSWAP1", "BSTSWAP1\BSTSWAP1.csproj", "{8F475E0A-92A0-4AC1-A2EB-E8AFD1DD801C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -324,5 +326,17 @@ Global
 		{467E914C-C5CC-423D-9A84-F8EFDC0909E9}.Release|x64.Build.0 = Release|Any CPU
 		{467E914C-C5CC-423D-9A84-F8EFDC0909E9}.Release|x86.ActiveCfg = Release|Any CPU
 		{467E914C-C5CC-423D-9A84-F8EFDC0909E9}.Release|x86.Build.0 = Release|Any CPU
+		{8F475E0A-92A0-4AC1-A2EB-E8AFD1DD801C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F475E0A-92A0-4AC1-A2EB-E8AFD1DD801C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F475E0A-92A0-4AC1-A2EB-E8AFD1DD801C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8F475E0A-92A0-4AC1-A2EB-E8AFD1DD801C}.Debug|x64.Build.0 = Debug|Any CPU
+		{8F475E0A-92A0-4AC1-A2EB-E8AFD1DD801C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8F475E0A-92A0-4AC1-A2EB-E8AFD1DD801C}.Debug|x86.Build.0 = Debug|Any CPU
+		{8F475E0A-92A0-4AC1-A2EB-E8AFD1DD801C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F475E0A-92A0-4AC1-A2EB-E8AFD1DD801C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F475E0A-92A0-4AC1-A2EB-E8AFD1DD801C}.Release|x64.ActiveCfg = Release|Any CPU
+		{8F475E0A-92A0-4AC1-A2EB-E8AFD1DD801C}.Release|x64.Build.0 = Release|Any CPU
+		{8F475E0A-92A0-4AC1-A2EB-E8AFD1DD801C}.Release|x86.ActiveCfg = Release|Any CPU
+		{8F475E0A-92A0-4AC1-A2EB-E8AFD1DD801C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
